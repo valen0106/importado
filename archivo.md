@@ -33,18 +33,11 @@ Mostrar el modelado de un proyecto es importante porque:
 
 ### Desordenada
 
-* Ítem 1
-* Ítem 2
-* Ítem 2a
-* Ítem 2b
+* **Rastrear Cambios:** Guarda un historial completo de todas las modificaciones realizadas en los archivos de un proyecto.
+***Colaboración:** Permite a múltiples desarrolladores trabajar en el mismo proyecto simultáneamente sin conflictos, integrando cambios de manera segura.
+* **Gestión de Versiones:** Facilita el control de diferentes versiones del proyecto, permitiendo revertir a estados anteriores si es necesario.
+* **Ramas y Fusiones:** Permite la creación de ramas (branches) para desarrollar características de forma aislada y luego fusionarlas (merge) en la versión principal del proyecto.
 
-### Ordenada
-
-1. Ítem 1
-2. Ítem 2
-3. Ítem 3
-	1. Ítem 3a
-	2. Ítem 3b
 
 
 
