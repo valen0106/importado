@@ -29,14 +29,14 @@ Mostrar el modelado de un proyecto es importante porque:
 - **Documentación:** Sirve como una forma de documentación que puede ser referenciada durante el desarrollo y mantenimiento del proyecto, haciendo más fácil entender y modificar el sistema en el futuro.
 - **Revisión y Feedback:** Permite a otros ofrecer retroalimentación sobre el diseño y la arquitectura, mejorando la calidad del proyecto a través de revisiones colaborativas.
 
-## Bloques de código
+## Tablas
 
-Por ejemplo esto es código js
+| Columnas Izquierda | Columnas Derecha |
+| ------------------ |:----------------:|
+| izquierda x  	| derecha x  	|
+| izquierda y  	| derecha y  	|
+| izquierda z  	| derecha z  	|
 
-```
-let message = 'Hello world';
-alert(message);
-```
 
 
 
