@@ -29,10 +29,14 @@ Mostrar el modelado de un proyecto es importante porque:
 - **Documentación:** Sirve como una forma de documentación que puede ser referenciada durante el desarrollo y mantenimiento del proyecto, haciendo más fácil entender y modificar el sistema en el futuro.
 - **Revisión y Feedback:** Permite a otros ofrecer retroalimentación sobre el diseño y la arquitectura, mejorando la calidad del proyecto a través de revisiones colaborativas.
 
-## Citas en bloque
+## Bloques de código
 
-> Markdown es un lenguaje de marcado ligero con sintaxis de formato de texto plano, creado en 2004 por John Gruber con Aaron Swartz.
->
->> Markdown a menudo se utiliza para formatear archivos readme, para escribir mensajes en foros de discusión en línea, y para crear texto enriquecido utilizando un editor de texto plano.
+Por ejemplo esto es código js
+
+```
+let message = 'Hello world';
+alert(message);
+```
+
 
 
