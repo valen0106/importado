@@ -29,15 +29,6 @@ Mostrar el modelado de un proyecto es importante porque:
 - **Documentación:** Sirve como una forma de documentación que puede ser referenciada durante el desarrollo y mantenimiento del proyecto, haciendo más fácil entender y modificar el sistema en el futuro.
 - **Revisión y Feedback:** Permite a otros ofrecer retroalimentación sobre el diseño y la arquitectura, mejorando la calidad del proyecto a través de revisiones colaborativas.
 
-## Listas
-
-### Desordenada
-
-* **Rastrear Cambios:** Guarda un historial completo de todas las modificaciones realizadas en los archivos de un proyecto.
-***Colaboración:** Permite a múltiples desarrolladores trabajar en el mismo proyecto simultáneamente sin conflictos, integrando cambios de manera segura.
-* **Gestión de Versiones:** Facilita el control de diferentes versiones del proyecto, permitiendo revertir a estados anteriores si es necesario.
-* **Ramas y Fusiones:** Permite la creación de ramas (branches) para desarrollar características de forma aislada y luego fusionarlas (merge) en la versión principal del proyecto.
-
 
 
 
