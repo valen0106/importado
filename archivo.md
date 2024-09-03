@@ -29,13 +29,23 @@ Mostrar el modelado de un proyecto es importante porque:
 - **Documentación:** Sirve como una forma de documentación que puede ser referenciada durante el desarrollo y mantenimiento del proyecto, haciendo más fácil entender y modificar el sistema en el futuro.
 - **Revisión y Feedback:** Permite a otros ofrecer retroalimentación sobre el diseño y la arquitectura, mejorando la calidad del proyecto a través de revisiones colaborativas.
 
-## Tablas
+## Listas
 
-| Columnas Izquierda | Columnas Derecha |
-| ------------------ |:----------------:|
-| izquierda x  	| derecha x  	|
-| izquierda y  	| derecha y  	|
-| izquierda z  	| derecha z  	|
+### Desordenada
+
+* Ítem 1
+* Ítem 2
+* Ítem 2a
+* Ítem 2b
+
+### Ordenada
+
+1. Ítem 1
+2. Ítem 2
+3. Ítem 3
+	1. Ítem 3a
+	2. Ítem 3b
+
 
 
 
