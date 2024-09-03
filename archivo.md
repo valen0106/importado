@@ -1,10 +1,10 @@
-# Introducción a Git y GitHub
+# Actividad markdown
 
-## ¿Qué es Git?
+## ¿Qué es?
 
-Git es un sistema de control de versiones distribuido que permite a los desarrolladores llevar un registro de los cambios en su código fuente a lo largo del tiempo. Fue creado por Linus Torvalds en 2005 y es conocido por su rapidez, flexibilidad y eficiencia en el manejo de proyectos grandes y pequeños.
+Git es una herramienta que permite a los programadores registrar y gestionar los cambios realizados en su código a lo largo del tiempo. Imagina Git como un historial detallado de todas las modificaciones que se hacen en un proyecto de software. Fue desarrollado por Linus Torvalds en 2005 y se destaca por ser muy rápido y adaptarse bien tanto a proyectos grandes como pequeños. En lugar de tener una copia única del código, cada desarrollador tiene su propia versión completa, lo que facilita el trabajo conjunto y el control de versiones.
 
-## ¿Para qué sirve Git?
+## ¿Para qué sirve?
 
 Git sirve para:
 - **Rastrear Cambios:** Guarda un historial completo de todas las modificaciones realizadas en los archivos de un proyecto.
@@ -12,7 +12,7 @@ Git sirve para:
 - **Gestión de Versiones:** Facilita el control de diferentes versiones del proyecto, permitiendo revertir a estados anteriores si es necesario.
 - **Ramas y Fusiones:** Permite la creación de ramas (branches) para desarrollar características de forma aislada y luego fusionarlas (merge) en la versión principal del proyecto.
 
-## ¿Qué aporta GitHub al desarrollo de software?
+## ¿Qué aporta al desarrollo de software?
 
 GitHub es una plataforma de alojamiento de código basada en la web que utiliza Git para el control de versiones. Aporta:
 - **Almacenamiento en la Nube:** Permite almacenar repositorios de código en la nube, facilitando el acceso desde cualquier lugar.
@@ -29,5 +29,10 @@ Mostrar el modelado de un proyecto es importante porque:
 - **Documentación:** Sirve como una forma de documentación que puede ser referenciada durante el desarrollo y mantenimiento del proyecto, haciendo más fácil entender y modificar el sistema en el futuro.
 - **Revisión y Feedback:** Permite a otros ofrecer retroalimentación sobre el diseño y la arquitectura, mejorando la calidad del proyecto a través de revisiones colaborativas.
 
+## Citas en bloque
+
+> Markdown es un lenguaje de marcado ligero con sintaxis de formato de texto plano, creado en 2004 por John Gruber con Aaron Swartz.
+>
+>> Markdown a menudo se utiliza para formatear archivos readme, para escribir mensajes en foros de discusión en línea, y para crear texto enriquecido utilizando un editor de texto plano.
 
 
