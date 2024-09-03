@@ -8,7 +8,7 @@ Git es una herramienta que permite a los programadores registrar y gestionar los
 
 ## ¿Para qué sirve?
 
-Git sirve para:
+*Git sirve para:*
 - **Rastrear Cambios:** Guarda un historial completo de todas las modificaciones realizadas en los archivos de un proyecto.
 - **Colaboración:** Permite a múltiples desarrolladores trabajar en el mismo proyecto simultáneamente sin conflictos, integrando cambios de manera segura.
 - **Gestión de Versiones:** Facilita el control de diferentes versiones del proyecto, permitiendo revertir a estados anteriores si es necesario.
@@ -16,7 +16,7 @@ Git sirve para:
 
 ## ¿Qué aporta al desarrollo de software?
 
-GitHub es una plataforma de alojamiento de código basada en la web que utiliza Git para el control de versiones. Aporta:
+*GitHub es una plataforma de alojamiento de código basada en la web que utiliza Git para el control de versiones. Aporta:*
 - **Almacenamiento en la Nube:** Permite almacenar repositorios de código en la nube, facilitando el acceso desde cualquier lugar.
 - **Colaboración:** Proporciona herramientas para la colaboración en equipo, como pull requests, revisiones de código y gestión de problemas.
 - **Integración Continua:** Ofrece integración con herramientas de integración y despliegue continuo (CI/CD), que automatizan la construcción, prueba y despliegue del software.
@@ -25,7 +25,7 @@ GitHub es una plataforma de alojamiento de código basada en la web que utiliza 
 
 ## ¿Para qué mostrar el modelado de mi proyecto?
 
-Mostrar el modelado de un proyecto es importante porque:
+*Mostrar el modelado de un proyecto es importante porque:*
 - **Claridad y Comunicación:** Ayuda a comunicar la estructura y el diseño del proyecto a los miembros del equipo y a otras partes interesadas, asegurando que todos comprendan cómo se organiza y funciona el sistema.
 - **Planificación:** Facilita la planificación y el diseño al proporcionar una visión visual del proyecto, lo que ayuda a identificar posibles problemas y a tomar decisiones informadas.
 - **Documentación:** Sirve como una forma de documentación que puede ser referenciada durante el desarrollo y mantenimiento del proyecto, haciendo más fácil entender y modificar el sistema en el futuro.
