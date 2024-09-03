@@ -1,6 +1,7 @@
 ## Encabezados <a name= “top”></a>
 
 # Este es el titulo
+<h1> algo </h1>
 ## Este es un Encabezado h2
 ###### Este es un Encabezado h6
 
