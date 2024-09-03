@@ -3,6 +3,7 @@
 ## ¿Qué es?
 
 Git es una herramienta que permite a los programadores registrar y gestionar los cambios realizados en su código a lo largo del tiempo. Imagina Git como un historial detallado de todas las modificaciones que se hacen en un proyecto de software. Fue desarrollado por Linus Torvalds en 2005 y se destaca por ser muy rápido y adaptarse bien tanto a proyectos grandes como pequeños. En lugar de tener una copia única del código, cada desarrollador tiene su propia versión completa, lo que facilita el trabajo conjunto y el control de versiones.
+
 ![Este es texto alt, alternativo.]( https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/180px-GitHub_Invertocat_Logo.svg.png "Esta es una imagen de muestra.")
 
 
